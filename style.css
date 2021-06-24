@@ -700,5 +700,9 @@ p {
 		flex-basis: 22%;
 		margin: 1.5%;
 	}
+	#projects{
+		flex-basis: 22%;
+		margin: 1.5%;
+	}
 }
 /* End  Media Query For Desktop */
