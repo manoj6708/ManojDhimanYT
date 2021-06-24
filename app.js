@@ -23,7 +23,7 @@ menu_item.forEach((item) => {
 		mobile_menu.classList.toggle('active');
 	});
 });
-
+// ADS
 <script type="text/javascript">//<![CDATA[ 
 (function() {
     var configuration = {
@@ -58,3 +58,4 @@ menu_item.forEach((item) => {
     entry.parentNode.insertBefore(script, entry);
 })();
 //]]></script>
+// ADS
