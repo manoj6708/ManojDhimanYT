@@ -433,9 +433,11 @@ p {
 #about .col-left .about-img {
 	height: 70%;
 	width: 100%;
+	position: relative;
+	border: 10px solid white;
 }
 #about .col-left .about-img::after {
-	content: '';
+	/* content: ''; */
 	position: absolute;
 	left: -33px;
 	top: 19px;
